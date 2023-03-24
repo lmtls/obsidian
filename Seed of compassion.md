@@ -1,0 +1,3 @@
+> We each have many kinds of “seeds” lying deep in our consciousness. Those we water are the ones that sprout, come up into our awareness, and manifest outwardly. **So in our own consciousness there is hell, and there is also paradise**. One way of taking care of our suffering is to invite a seed of the opposite nature to come up. **As nothing exists without its opposite, if you have a seed of arrogance, you have also a seed of compassion.** Every one of us has a seed of compassion. If you practice mindfulness of compassion every day, the seed of compassion in you will become strong. You need only concentrate on it and it will come up as a powerful zone of energy
+
+> This is essentially [[Samskara]]s that can be nurtured

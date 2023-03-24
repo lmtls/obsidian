@@ -1,0 +1,1 @@
+Most of the times emotions are viewed as something vague and poorly understandable. However, I think, with proper amount of mindfullness emotions can be pinpointed and understood as an occuring process, just something present in reality and a beutiful tool for people to connect 

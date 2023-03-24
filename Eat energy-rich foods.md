@@ -1,0 +1,2 @@
+### 3)Eat foods that are great source of energy
+Eating an oatmeal in the morning keeps you energized for long. The same goes for beans, chicken, and rice. They are callorie dense, but not to heavy on your sleepiness as stuff high in sugar.

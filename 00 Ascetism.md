@@ -1,0 +1,1 @@
+# Diverting oneslef from hedonism and plesure towards a simple minimalistaic life practices

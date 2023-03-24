@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "5a94ab87d0d59e5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "46f961acf743eeef",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be5095be380c0a9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f08bd71c5fda8e64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fba56700105d3352",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "22276a6303b80df3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "music",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "right": {
+    "id": "56db1ad755e1a14f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8009242e029fd34c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64ec01997a0a0119",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 238.5
+  },
+  "active": "46f961acf743eeef",
+  "lastOpenFiles": [
+    "00 Music.md",
+    "Starlight.md",
+    "Mountain Eagle.md",
+    "Demons are gone.md",
+    "My poetry.md",
+    "Fleeting memory.md",
+    "Человечишко.md",
+    "narrow idea of happiness.md",
+    "Release your cows.md",
+    "00 Ascetism.md"
+  ]
+}

@@ -1,0 +1,1 @@
+# Thoughts, meanings, and value

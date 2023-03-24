@@ -1,0 +1,1 @@
+> Enlightenment is always enlightenment about something. **You are aware that you are alive; that is already enlightenment. You are aware that you have a body; that is already enlightenment. You are aware that your feet are strong enough for you to enjoy walking; that is also enlightenment**

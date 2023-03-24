@@ -1,0 +1,3 @@
+[[Telegram Channel]]
+Truth or positivity
+Truth is gray and positivity is just a color painting. Indulging in positive thoughts does not mean that you forget what truth is. It is just a tool to view the world. There is no truth. You could say that positivity is wrong because you dont see negativity, but negativity is also an illussion. Truth is not negative and its not positive, it isnt even neutral.

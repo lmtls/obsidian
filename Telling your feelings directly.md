@@ -1,0 +1,2 @@
+## Telling what you think and feel how it is
+Basically, removing all maintained constructed norms of interaction between people and just say things as they are. **[[Speak your feeling like if they were facts]]**.  Bring back the power of the words. Say things like you always meant to say them.

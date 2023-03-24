@@ -1,0 +1,2 @@
+We value the collaborative spirit and believe that there are people who want to contribute to society as much as we do. We welcome anyone interested in teaching and volunteering. Requirements: 
+CEFR B2 IELTS 6.5/TOEFL 79 (optional)

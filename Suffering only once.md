@@ -1,0 +1,6 @@
+> If we know how to handle the little sufferings, we don’t have to suffer on a daily basis. We can practice **letting go of** what the French call les petites miseres, the **little miseries**, and save our energy to embrace and soothe the true pains of illness and loss that are unavoidable.
+
+> There is a Buddhist teaching found in the _Sallatha Sutta_, known as The Arrow. It says if an arrow hits you, you will feel pain in that part of your body where the arrow hit; and then if a second arrow comes and strikes exactly at the same spot, **the pain will not be only double, it will become at least ten times more intense.** The unwelcome things that sometimes happen in life—being rejected, losing a valuable object, failing a test, getting injured in an accident—are analogous to the first arrow. They cause some pain. The second arrow, fired by our own selves, is **our reaction, our storyline**, and our anxiety. The second arrow may take the form of judgment (“how could I have been so stupid?”), fear (“what if the pain doesn’t go away?”), or anger (“I hate that I’m in pain. I don’t deserve this!”).
+
+> “We suffer more often in imagination than in reality”
+>  [[00 Stoicism|― Lucius Annaeus Seneca]]

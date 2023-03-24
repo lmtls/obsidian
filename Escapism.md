@@ -1,0 +1,1 @@
+> Instead of stopping and looking deeply, we are running as far away as possible from the loneliness, grief, sadness, anger, and emptiness that we feel we can’t bear.
